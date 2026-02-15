@@ -123,113 +123,58 @@ You have to use your better judgment here and think of what the player would enj
 
 Next, it's time to roll up our sleeves as devs and get REALLY creative when the devs themselves challenge the player beyond the rules of the game.
 
-## For-Fun achievements
+## For-Fun Achievements
+Usually for fewer points than others, these are typically "Easter egg" type achievements. These involve letting fun scenes not typically seen by players to happen, interacting with backgrounds/objects, finding secret cameos, and so on. These are usually done with purpose: to make the game entertaining. And we as developers should make every attempt possible to recognize and support these as much as we can.
 
-This kind of achievements usually worths just a few points, but they are still fun
+This can be especially true for hacks of games, where hack makers will typically insert fun curiosities not found in the original.
 
-**Examples of For Fun:**
-
-- Letting the clock hit 99:59 in Valkyrie Profile.
-- Interactive backgrounds, such as poking the hanging dead body in stage 1 of Castlevania: Bloodlines.
-- Cooking the hamster in the microwave in Maniac Mansion.
-- Watching the apocalypse in Majora's Mask.
-- Finding John Romero in Doom 2.
-
-Sometimes, game makers add fun easter eggs. They went the extra mile to entertain the player with 'what if's'. Again, it is our job as devs to recognize and support these as much as we can.
+**Examples of For-Fun:**
+- [The Fourth Day (RIP)](https://retroachievements.org/achievement/55560): Let the Moon crash in  [The Legend of Zelda: Majora's Mask](https://retroachievements.org/game/10679)
+- [Scratch Beneath the Surface](https://retroachievements.org/achievement/27747): Hang off a ledge and take care of an itch in [Earthworm Jim](https://retroachievements.org/game/889)
+- [Dangling Corpse](https://retroachievements.org/achievement/18317): Stage 1 - Knock this poor guy around a bit in [Castlevania: Bloodlines](https://retroachievements.org/game/69)
+- [Ratatouille](https://retroachievements.org/achievement/161551): Microwave the hamster in [Maniac Mansion](https://retroachievements.org/game/16360)
 
 ## Challenges
+One thing every developer should keep in mind about retro gamers is that most of us have played the games we play many times before, and we often look for new ways of revisiting our favorite titles. Some of us can clear Contra without losing a single life. Challenge achievements are opportunities to prove it!
 
-One thing that you have to remember about retro gamers - and the games they play - is that most of us have played these games a million times before. This is the same old song and dance for most of us, and we often need motivation to do it again. Some of us can clear Contra without losing a single life. Well, now is our chance to prove it!
+Think about it: before RetroAchievements, about the only way to prove you can complete a flawless run of Contra was to invite a friend over and show them or figure out recording software and upload a video. But even then, word-of-mouth is only provable to a few people at most, and videos can be easily doctored to look flawless. RetroAchievements, however, has Hardcore mode which helps to provide proof of accomplishment and mitigate cheating.
 
-I mean, think about it: Before this website, about the only way to prove you can do a flawless run of Contra was to invite a friend over, sit him down, and show him, or figure out recording software and make a YouTube video. But even then, a lot of those videos are doctored to look like flawless playthroughs. This site, however, has Hardcore mode, which help to indicate no one is cheating.
+You will have Progression Achievements, and you may have Sidequest/Optional Achievements, but if you want to create an achievement list that's truly great and stands out, you need at least a few Challenge Achievements! Think back to all the games you've played. What are some of the most memorable achievements? They were probably Challenge Achievements. There may be exceptions to the rule (many players will fondly remember beating a game they'd never played before), but the typical player isn't going to fondly recall "Cleared Stage X," they are going to remember challenges that made their playthrough unique, such as--
 
-You may have Progression Achievements and Sidequest/Optional Achievements, but if you want to create an achievement list that's truly great, you need at least a few Challenge Achievements. Try to think back to all the games you've played here at this website. What are some of the most memorable achievements? I can almost guarantee you that they were Challenge Achievements. There are exceptions to the rule, of course, but the typical player isn't going to fondly recall, 'Cleared Stage 2-6', or 'Reached Level 30'. They are more likely to fondly remember achievements that made their play-throughs a unique experience, such as...
+- defeating a boss under some limitations
+- completing a stage faster than previously expected
+- beating the game with specific party setups
 
-- get through the entire game without ever picking up a powerup or coin
-- defeat a boss without getting hit
-- finish a stage without losing a life
+Even critics of some Challenge Achievements will be in favor of others, and this is why a good achievement developer will consider diving deeply into the game's mechanics and creating unique and/or unusual challenges.
 
-That is what makes this website so special, and what makes achievements something more than just beating a game.
-
-Even the most vocal critics who hate the idea of Achievements may say, "Well, except for THIS one. This one was okay." And I guarantee you that ONE example they're talking about is a Challenge Achievement, something that challenged the player beyond the game itself.
-
-A good achievement developer will keep their eyes peeled, their wits about them, and their senses sharp when developing a game, looking for good, unusual challenges. They may notice something in the game that's a difficult feat.
+However, the developer should take caution: Challenge Achievements offer a unique game experience, but samey achievements that can be found in other ports or are used ad nauseum over a single set can feel cumbersome for players. Many players who play some games in a franchise (e.g. Zelda or Mega Man) will often play the entire series, and while some Challenge Achievement types make sense for some franchises (damageless boss fights in Mega Man games), they can create a sense of fatigue. A good developer will find the balance between "tough" and "tiresome," but this may require deeper digging into the memory to find the memory needed for more interesting challenges.
 
 ### Speedrun Challenges
-
-Timers introduce an added pressure players may have never felt before while playing their favorite games. Few things get the heart pumping more than an imposing ticking clock. Add a timer element, and a game that was previously so easy they could beat it blindfolded could suddenly be transformed into the ultimate gaming challenge of their lives.
-
-**Examples of Speedrun Challenges:**
-
-- Completing a game in under one hour.
-- Clearing a specific stage in under three minutes.
-- Undercut the timer by a certain number of seconds.
-- Kill 30 vampire bats during the escape sequence.
-- Collect 99 bonus coins before the bonus screen fades away.
-- Go from point A to point B before day changes to night.
-- Leaderboard - Complete the game with the fastest time possible.
-- Leaderboard - Complete a given stage with the fastest time possible.
-
-A dev may want to head out to YouTube or Twitch and see how fast people are finishing a game (And please ignore TAS - "Tool Assisted Speedruns"). Some pro speed-runners are so fast, the typical player here won't stand a chance at the times being posted, but you should be able to find a happy medium. And if you can't figure out a good time to challenge the players here, that's what Leaderboards are for - Turn it into a competition! In fact, some of your favorite celebrity speed-runners may come to this very site and submit a time or two.
-
-You'll know when you're facing a pressure achievement when your palms are sweating and you find yourself nervously glancing at the timer. Like I said before, nothing screams, "Wake up!" louder than a timer, especially when developers start weaving this kind of achievement with OTHER kinds of achievements (and even leaderboards) during a timed portion of a game. Timer Challenges have an insane amount of synergy with other types of achievements.
+blah
 
 ### Limitation Challenges
-
-**Examples of Limitation Challenges:**
-
-- Clear a battle or even an entire game with all characters of a specific job class. (One famous example of this is clearing the original Final Fantasy with a group of White Mages.)
-- Beat a final boss with no equipment on.
-- Clear a stage without ever jumping.
-- Solve a puzzle in only two moves.
-- One-hit KOs.
-- Low level games (LLGs).
-- No hit achievements.
-- Never hit certain button(s) during a challenge.
-- Never lose invincibility through an entire Mario 3 stage by finding enough Starmen.
-- Defeat a certain enemy without using a certain move.
-- Reaching Ganon in Legend of Zelda, sword-less.
-- Defeat a certain enemy ONLY using a certain move.
-- Stumble your way through a maze while drunk/confused.
-- Clear the game with a status ailment.
-
-Community websites built around certain games are a fantastic resource for these kinds of achievements They'll have a good idea about what's possible and impossible, and have likely written up FAQs discussing alternative and challenging ways to play the entire game.
-
-Often times, though, there will be no community. No FAQs. No Message Board. And maybe even no useful videos. In these cases, you'll need to be an idea person to come up with new and interesting ways to challenge the player. Be aware that these kinds of achievements take a lot of practice, time, and experience to create.
-
-The takeaway here is to BE CREATIVE! And remember to keep it FUN!
+blah
 
 ### Score Challenges
-
-**Examples of Score Challenges:**
-
-- Completing a game or level with the lowest possible score.
-- Complete a minigame with a perfect score (not just topping the CPU leaderboard).
-- Leaderboard - Complete the game with the highest score/most money/best kill count/etc. possible.
-- Leaderboard - Complete a given stage with the highest score/most money/best kill count/etc. possible.
+blah
 
 ### Challenge Pros and Cons
+Challenge achievements are your chance to show players how to play their favorite games in unique ways, but as previously stated, you want to be careful of inducing fatigue. It is sometimes acceptable (though not encouraged) to tolerate a few grievances of challenge types in a game, but if a significant amount of comments are complaints, the developer may wish to reconsider either how many Challenge Achievements there are, what type they are, or both.
 
-Challenge Achievements are your chance to show players how to play their favorite games in different, unique, and even mind-bending ways. While these achievements can breathe life into an otherwise dull achievement set, you generally only want a small handful of these to be in your final list.
+### Pros
+- Many players love these and will provide constructive feedback on the more unique ones
+- Leaderboards will often satisfy the very hardcore players without upsetting the more casual players (who may still be looking for official Hardcore experiences)
+- Creativity can not only let your achievement set stand out, but you can also improve your skills at finding the harder-to-find memory beyond "lives" and "stage"
 
-#### Pros
-
-- Hardcore players love sinking their teeth into these kinds of achievements.
-
-- If some players are too hardcore, you can find a happy medium by implementing Leaderboards, which satisfies both the casual achievement hunters and the hardcore players all at once.
-
-- This is your chance to be very creative and come up with new challenges for players they never expected. This can be a pleasant surprise and really make your lists memorable.
-
-#### Cons
-
-- These types of achievements require a fair amount of creativity to dream up, though there are many ways to research unusual ways to play games by watching things like speed runs.
-
-- May require a deep research.
-
-- These can be notoriously difficult to code. They require you to make a lot of code notes, make tons of game mechanic observations, and often times they require bug testing before they even work. In fact, you may not even be ready to tackle achievements like this until you've had a few games under your belt with a set of baseline achievements. Fortunately, Challenge Achievements can always be added later.
+### Cons
+- The juice may not be worth the squeeze, and developers can spend a long time finding and testing necessary memory for overly specific challenges
+- Set instability may occur if it is later determined that dynamic memory (via pointers) was used unaware
+- Players are more willing to be vocal about challenges they disagree with
 
 ## External Resources
+- [Achievement Design 101](https://www.gamedeveloper.com/design/achievement-design-101) written by Greg McClanahan, a former anti-achievement blogger who created over 800 site-wide achievements for user-submitted Flash games on Kongregate
 
-- [Best practices achievement creation guide](http://www.voidcn.com/article/p-gmokauqn-bgh.html) written by Jeff Sullivan, Developer Account Manager of XNA Developer Connection (XDC) regarding XBox 360 Achievements.
-- [Make them Work for it](https://gamedevelopment.tutsplus.com/articles/make-them-work-for-it-designing-achievements-for-your-games--gamedev-3371) an achievement design guide written by Darran Jamieson on 1 Jan 2013.
+- [The Psychology Behind Effective Achievement Design](https://trophy.so/blog/psychology-behind-effective-achievement-design), written by Charlie Hopkins-Brinicombe who dives into the psychological aspect of achievement hunting
+
+- [Achievement Design Guidelines](https://namelessquality.com/achievement-design-guidelines/), written by Max Nichols, a game designer for Bungie and Turbine who is very passionate about effective game and reward design
 - [The Achievement Machine: Understanding Xbox 360 Achievements in Gaming Practices](http://gamestudies.org/1101/articles/jakobsson) - by Mikael Jakobsson
