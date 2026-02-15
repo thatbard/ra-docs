@@ -5,13 +5,13 @@ description: Learn the conceptual principles behind creating engaging and memora
 
 # Achievement Design
 
-This is a guide on how to think about and design good achievements. Not the technical side, but the conceptual. The core achievement set for a game should strive to utilize achievements of each of the major types listed here when possible: Progression, optional, collection, for-fun, and challenges.
+This is a guide on how to think about and design good achievement concepts. The core achievement set for a game should strive to utilize achievements of each of the major types listed here when possible: Progression, optional, collection, for-fun, and challenges.
 
 ## Progression Achievements
 
 Progression achievements are awarded for required, unmissable game events. From acquiring a critical key item to clearing a required stage or witnessing a mandatory scene, these cover the base game experiences all players will encounter before reaching the end of a game. Progression achievements form the starting foundation we will build upon with other achievement types, but do not make a complete set on their own.
 
-What makes a good progression achievement varies with game genre and mechanics. An arcade game may have achievements for completing individual stages or groups of stages depending on length, where an RPG that doesn't have clearly defined stages may have a mix of achievements for acquiring key items, completing major story beats, and defeating bosses. The quantity and pacing of progression achievements should also be considered. Try to avoid having so many achievements that they feel trivial or like a play-by-play recap of what is happening, or so few that a multi-hour gaming session of meaningful forward progress goes unrewarded.
+What makes a good progression achievement varies with game genre and mechanics. An arcade game may have achievements for completing individual stages or groups of stages depending on length, where an RPG that doesn't have clearly defined stages may have a mix of achievements for acquiring key items, completing major story beats, and defeating bosses.
 
 #### Progression Examples
 
@@ -21,11 +21,13 @@ What makes a good progression achievement varies with game genre and mechanics. 
 - [Story of My Life](https://retroachievements.org/achievement/435956): Escape the island in Resident Evil 4
 - [League Champion](https://retroachievements.org/achievement/27615): Become the Pokémon League Champion in Pokémon Emerald Version
 
-#### Things to Avoid
+#### Try to Avoid
 
-- Avoid individual achievements for a long series of short stages. Instead, consider achievements for completing groups of stages such as 1-5, or all stages around a certain theme.
-- Avoid achievements for simply starting a game or stage. These require no in-game effort and are easily exploitable by cheaters. For example, build around *completing* stage 1, not *entering* stage 2.
+- Individual achievements for a long series of short stages. Instead, consider achievements for completing groups of stages such as 1-5, or all stages around a certain theme.
+- Achievements for simply starting a game or stage. These require no in-game effort and are easily exploitable by cheaters. For example, build around *completing* stage 1, not *entering* stage 2.
 - If something can be skipped or missed without the use of glitches, it is not a candidate for a progression achievement but may belong in another achievement category.
+- Having so many achievements that they feel trivial or like a play-by-play recap of what is happening.
+- Having so few achievements that several hours of meaningful forward progress goes unrewarded.
 
 ## Sidequest/Optional Achievements
 
