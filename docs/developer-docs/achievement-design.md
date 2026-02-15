@@ -13,7 +13,7 @@ Progression achievements are awarded for required, unmissable game events. From 
 
 What makes a good progression achievement varies with game genre and mechanics. An arcade game may have achievements for completing individual stages or groups of stages depending on length. An RPG that doesn't have clearly defined stages may have a mix of achievements for acquiring key items, completing major story beats, and defeating bosses. In games with multiple difficulty settings or options, progression achievements should generally be allowed on any settings.
 
-Finding the right amount of progression achievements is generally forgiving, but extremes should be avoided. Having achievements regularly popping every few minutes or for minor events feels trivial and undermines a sense of true accomplishment, but progressing for many hours without recognition can risk players not feeling engaged with RetroAchievements.
+Finding the right amount of progression achievements is generally forgiving, but extremes should be avoided. Having achievements regularly popping every few minutes or for minor events feels trivial and undermines a sense of true accomplishment, but progressing for many hours without recognition can risk players not feeling engaged with the set.
 
 #### Progression Examples
 
