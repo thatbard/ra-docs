@@ -5,82 +5,27 @@ description: Learn the conceptual principles behind creating engaging and memora
 
 # Achievement Design
 
-This is a guide on how to think about and design good achievements. Not the technical side, but the conceptual.
+This is a guide on how to think about and design good achievements. Not the technical side, but the conceptual. The core achievement set for a game should strive to utilize achievements of each of the major types listed here when possible: Progression, optional, collection, for-fun, and challenges.
 
-## Progression Based Achievements
+## Progression Achievements
 
-There are 3 types of progression-based achievements: simple progression, story-based progression, and progression/collection achievements.
+Progression achievements are awarded for required, unmissable game events. From acquiring a critical key item to clearing a required stage or witnessing a mandatory scene, these cover the base game experiences all players will encounter before reaching the end of a game. Progression achievements form the starting foundation we will build upon with other achievement types, but do not make a complete set on their own.
 
-### Simple Progression
+What makes a good progression achievement varies with game genre and mechanics. An arcade game may have achievements for completing individual stages or groups of stages depending on length, where an RPG that doesn't have clearly defined stages may have a mix of achievements for acquiring key items, completing major story beats, and defeating bosses. The quantity and pacing of progression achievements should also be considered. Try to avoid having so many achievements that they feel trivial or like a play-by-play recap of what is happening, or so few that a multi-hour gaming session of meaningful forward progress goes unrewarded.
 
-Progression-based achievements are usually simplest ones, especially if the game you are doing is nothing but linear stages. Or doesn't have much going on in the way of storylines. In this case, let's look at some GOOD and BAD examples of this:
+#### Progression Examples
 
-- Good: Clear stage 1.
-- Bad: Reach stage 2.
+- [Fighter](https://retroachievements.org/achievement/944): Obtain the Fighter's Sword and Shield in The Legend of Zelda: A Link to the Past
+- [Red Pyramid Thing](https://retroachievements.org/achievement/261116): Survive your first confrontation with Red Pyramid Thing in Silent Hill 2
+- [Ok, Smarty, Go to a Party](https://retroachievements.org/achievement/583979): Complete Rounds 21-25 without quitting in Bust-A-Move
+- [Story of My Life](https://retroachievements.org/achievement/435956): Escape the island in Resident Evil 4
+- [League Champion](https://retroachievements.org/achievement/27615): Become the Pokémon League Champion in Pokémon Emerald Version
 
-It takes slightly more work to code an achievement where the player is required to clear the stage rather than simply reach the next one. But it is also much more satisfying for the player, and it is much more professional-looking. It is also **less susceptible to problems with players loading save games or save states for freebie achievements en masse**.
+#### Things to Avoid
 
-- Good: Complete the game.
-- Bad: Start the game.
-
-While it is true progression-based achievements are often freebies, it is generally agreed upon here that an achievement to start the game is a bit too easy, and not at all memorable for the player. It's just a formality. The ending of the game, however, is often the most memorable part of a game for a player, and completing a game is definitely an achievement in itself. It's a good practice to make such achievement work like "Beat last stage and beat the game".
-
-- Good: Cleared the ice theme stages, or Cleared the first five stages, or Cleared the first ten stages.
-- Bad: Complete Stage 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11-200 (all separate achievements)
-
-One of the worst things you can do is create achievement spam. Puzzle games are notorious for these kinds of problems, because the stages are short and often, there are one-hundred of them or more. As a result, the main page feed ends up with a lot of micro-updates, which spams other folks' achievements down and off the front page quickly. The way to come off as more professional in this matter is to space out the achievements a bit more, into groups of stages. For instance, if stages 1-10 are all fire themed, and stages 11-20 are all outer-space themed, you can create achievements around these themes. Be creative.
-
-### Story Based Progression:
-
-The most memorable moments in gaming history are often not related to item collection or sidequests, but to specific scenes relating to the story.
-
-**Examples:**
-
-- First encounter with Pyramid Head in the Silent Hill series.
-- Finding out the truth about Darth Revan in Knights of the Old Republic.
-- Finding out what will happen in the future in Chrono Trigger.
-- Launching the Cow in Earthworm Jim.
-- Pretty much any character death.
-
-The thing you have to be extra-careful with here is spoilers. If you catch a progression-based achievement that has a spoiler in it, by all means contact the dev about it. And devs, please be receptive when it comes to constructive criticism! Also, the number and even percentage of these will vary from game to game--The dependence lies heavily upon how story-driven the game is.
-
-### Progression/Collection
-
-Progression/Collection is a common hybrid. Not only are you collecting an item, but it also launches into a memorable (and mandatory) scene.
-
-**Examples:**
-
-- Obtaining the Master Sword in Link to the Past, which lifts the curse in the Lost Woods.
-- Finding the sword on the beach in Link's Awakening, which launches into the first scene where the wise owl speaks to you.
-- Picking your starter Pokemon, which happens during a beginning scene, but is a 'rite of passage' for most gamers.
-
-Achievements in this hybrid category are often more satisfying because they are pulling double-duty. The player is not only obtaining an item, but watching a memorable scene and nabbing an achievement all at once. Quite the rush of endorphins!
-
-### Progression Pros and Cons
-
-Progression Achievements are guaranteed to the player on a normal play-through. So why even have them?
-
-#### Pros
-
-- A player deserves points for playing through a game! They do! Remember, a lot of folks are playing through these games for the very first time, and most games are quite hard to beat. Why shouldn't we reward players for a good ol' normal play-through?
-
-- Periodic progression awards go a long way to encourage players to complete a game.
-
-- Some players are more casual and don't intend to do much more than beat games on this website. Not everyone feels the need to Master every game in Hardcore mode. Many are perfectly happy grabbing whatever convenient side-achievements they can during a normal play-through, and there's nothing wrong with that.
-
-- Some scenes are so memorable, they deserve achievements all their own! People who grew up with these games and love them look for these scenes in achievement lists, and it might just warm their heart when they see it was acknowledged.
-
-- Progression Achievements help other people on the website gauge how far along a player is in a game, a bit like Rich Presence. We can drop a line to the player and say, "Good luck!" because we know the next section is pretty tricky. It encourages the community to interact.
-
-- Order matters! Progression Achievements can tell us a lot about a play-through just by the order they occurred. If you pop that optional boss achievement and saved up a million dollars AFTER you've already done all the sidequests, that's much less impressive than if you manage to pull it off well before the mid-point of the game. In other words, Progression Achievements allow us to show-off a bit! We can show the world that we can beat that final boss before we've reached level 10, or that we can beat Expert mode on our first go before Easy and Normal. **It can even reveal if we've used glitches or cheats to skip certain portions of the game**. So, as you can see, Progression Achievements have great SYNERGY with other kinds of achievements.
-
-- These kinds of achievements are the easiest to code and are generally error-free.
-
-#### Cons
-
-- Too many Progression Achievements can over-saturate a game with 'freebies', and that's a Very Bad Thing.
-
-- If your entire game has nothing but these kinds of achievements, it's just another boring run through the game for players. Reach stage 2, Reach stage 3, Reach stage 4, Complete the Game. This is a great 'base' for you to start adding achievements from the other categories, but **don't leave your list at just Progression Achievements** if you can help it. Otherwise you're just rewarding players full points for going through the motions like they've done a million times before.
+- Avoid individual achievements for a long series of short stages. Instead, consider achievements for completing groups of stages such as 1-5, or all stages around a certain theme.
+- Avoid achievements for simply starting a game or stage. These require no in-game effort and are easily exploitable by cheaters. For example, build around *completing* stage 1, not *entering* stage 2.
+- If something can be skipped or missed without the use of glitches, it is not a candidate for a progression achievement but may belong in another achievement category.
 
 ## Sidequest/Optional Achievements
 
