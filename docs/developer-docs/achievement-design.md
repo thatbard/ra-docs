@@ -1,6 +1,6 @@
 ---
-title: Designing Memorable Achievements - A Comprehensive Guide
-description: Learn the conceptual principles behind creating engaging and memorable achievements, including progression-based, sidequests, optional, collectible, and challenge achievements.
+title: Designing Engaging Achievements - A Comprehensive Guide
+description: Learn the conceptual principles behind creating enjoyable and memorable achievements, including progression, optional content, collecion, for-fun, and challenge achievements.
 ---
 
 # Achievement Design
@@ -9,23 +9,27 @@ This is a guide on how to think about and design good achievement concepts. The 
 
 ## Progression Achievements
 
-Progression achievements are awarded for required, unmissable game events. From acquiring a critical key item to clearing a required stage or witnessing a mandatory scene, these cover the base game experiences all players will encounter before reaching the end of a game. Progression achievements form the starting foundation we will build upon with other achievement types, but do not make a complete set on their own.
+Progression achievements are awarded for required, unmissable game events. From acquiring a critical key item to clearing a required stage or witnessing a mandatory and important scene, these cover the base game experiences all players will encounter before reaching the end of a game. Progression achievements form the starting foundation we will build upon with other achievement types, but do not make a complete set on their own.
 
-What makes a good progression achievement varies with game genre and mechanics. An arcade game may have achievements for completing individual stages or groups of stages depending on length, where an RPG that doesn't have clearly defined stages may have a mix of achievements for acquiring key items, completing major story beats, and defeating bosses.
+What makes a good progression achievement varies with game genre and mechanics. An arcade game may have achievements for completing individual stages or groups of stages depending on length. An RPG that doesn't have clearly defined stages may have a mix of achievements for acquiring key items, completing major story beats, and defeating bosses. In games with multiple difficulty settings or options, progression achievements should generally be allowed on any settings.
+
+Finding the right amount of progression achievements is generally forgiving, but extremes should be avoided.
 
 #### Progression Examples
 
-- [Fighter](https://retroachievements.org/achievement/944): Obtain the Fighter's Sword and Shield in The Legend of Zelda: A Link to the Past
-- [Red Pyramid Thing](https://retroachievements.org/achievement/261116): Survive your first confrontation with Red Pyramid Thing in Silent Hill 2
-- [Ok, Smarty, Go to a Party](https://retroachievements.org/achievement/583979): Complete Rounds 21-25 without quitting in Bust-A-Move
-- [Story of My Life](https://retroachievements.org/achievement/435956): Escape the island in Resident Evil 4
-- [League Champion](https://retroachievements.org/achievement/27615): Become the Pokémon League Champion in Pokémon Emerald Version
+- [That Was Easy](https://retroachievements.org/achievement/9): Complete the first act of Green Hill Zone in [Sonic the Hedgehog](https://retroachievements.org/game/1)
+- [Fighter](https://retroachievements.org/achievement/944): Obtain the Fighter's Sword and Shield in [The Legend of Zelda: A Link to the Past](https://retroachievements.org/game/355)
+- [Red Pyramid Thing](https://retroachievements.org/achievement/261116): Survive your first confrontation with Red Pyramid Thing in [Silent Hill 2](https://retroachievements.org/game/1324)
+- [Ok, Smarty, Go to a Party](https://retroachievements.org/achievement/583979): Complete Rounds 21-25 without quitting in [Bust-A-Move](https://retroachievements.org/game/16642)
+- [Story of My Life](https://retroachievements.org/achievement/435956): Escape the island in [Resident Evil 4](https://retroachievements.org/game/2356)
+- [League Champion](https://retroachievements.org/achievement/27615): Become the Pokémon League Champion in [Pokémon Emerald Version](https://retroachievements.org/game/668)
+- [Camping with the Kongs](https://retroachievements.org/achievement/949): Complete every level in Vine Valley in [Donkey Kong Country](https://retroachievements.org/game/337)
 
 #### Try to Avoid
 
 - Individual achievements for a long series of short stages. Instead, consider achievements for completing groups of stages such as 1-5, or all stages around a certain theme.
 - Achievements for simply starting a game or stage. These require no in-game effort and are easily exploitable by cheaters. For example, build around *completing* stage 1, not *entering* stage 2.
-- If something can be skipped or missed without the use of glitches, it is not a candidate for a progression achievement but may belong in another achievement category.
+- Achievements for something that can be skipped or missed without the use of glitches, these belong in another category
 - Having so many achievements that they feel trivial or like a play-by-play recap of what is happening.
 - Having so few achievements that several hours of meaningful forward progress goes unrewarded.
 
